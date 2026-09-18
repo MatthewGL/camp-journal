@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T09:08:34.486Z",
-  "releaseId": "v7-20260918-first-public",
+  "generatedAt": "2026-09-18T09:41:31.337Z",
+  "releaseId": "v7-20260918-reviewed-a",
   "counts": {
     "brands": 52,
     "products": 59,
-    "news": 38,
-    "media": 177
+    "news": 42,
+    "media": 181
   }
 }
