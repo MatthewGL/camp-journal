@@ -1,0 +1,348 @@
+{
+  "brunt": {
+    "productIds": [
+      "product-brunt-checkmate-m",
+      "product-draft-9669885e56ffef7c",
+      "product-draft-317c23d50d61ba2a",
+      "product-draft-b0d2cd5ba6b7bf1a",
+      "product-draft-388ef52c7e1b0990",
+      "product-draft-55b84a86bc070c94",
+      "product-draft-ca89a53504030472"
+    ],
+    "newsIds": [
+      "draft-9528aa64a5ffc9b2",
+      "draft-e104d2a5ce1883a6"
+    ]
+  },
+  "asimocrafts": {
+    "productIds": [
+      "product-asimocrafts-fixtack-a",
+      "product-draft-3806465cfb8aa1c7",
+      "product-draft-ee5a1d54877b91ab",
+      "product-draft-17bcba1aa60ccb95"
+    ],
+    "newsIds": [
+      "draft-763c4ebae5e7565e",
+      "draft-6fe2d6f52e7c8f2e",
+      "draft-e1fc082f33ab9e1d"
+    ]
+  },
+  "neru-design-works": {
+    "productIds": [
+      "product-neru-design-works-neru-cot",
+      "product-neru-design-works-edge-pad"
+    ],
+    "newsIds": [
+      "draft-a061a0da5437",
+      "draft-a29d91a6416a35f8",
+      "draft-30b6c67c2a62b037",
+      "draft-31e38706e3d82ee7"
+    ]
+  },
+  "old-mountain": {
+    "productIds": [
+      "product-old-mountain-miyabi-rich-38-kt-the-rich-oldmountain",
+      "product-old-mountain-garakuda",
+      "product-draft-157dc4381f9070aa",
+      "product-draft-64c6a2b2f2ea6460",
+      "product-draft-fac165b66945dc04"
+    ],
+    "newsIds": [
+      "draft-c7bb1fa2a497db07",
+      "draft-9730d8a6d2c9dc1c",
+      "draft-e9f3c34fc13e2926",
+      "draft-8298966e727f419c",
+      "draft-a98b7c6b0437f4ea"
+    ]
+  },
+  "h-and-o": {
+    "productIds": [
+      "product-2b3ca10addfc33c5",
+      "product-2dbea698e3fa5718"
+    ],
+    "newsIds": [
+      "draft-a30cadbdaabea04c",
+      "draft-760ec7b57f577170"
+    ]
+  },
+  "thearth": {
+    "productIds": [
+      "product-thearth-shimabi",
+      "product-draft-32af26aa2b08007f"
+    ],
+    "newsIds": []
+  },
+  "grindlodge": {
+    "productIds": [
+      "product-512a1eed08ce7a19",
+      "product-656f25b2f2afad92"
+    ],
+    "newsIds": []
+  },
+  "inavance": {
+    "productIds": [
+      "product-820eda8e1782b3b9",
+      "product-31a7d0002db84553"
+    ],
+    "newsIds": []
+  },
+  "bonfire-go-outside": {
+    "productIds": [
+      "product-draft-346a671995baeff4",
+      "product-draft-0e59d0dee57412c4",
+      "product-draft-3cbd33eaa4541f44"
+    ],
+    "newsIds": []
+  },
+  "noras": {
+    "productIds": [
+      "product-73c31869cc64d5c8",
+      "product-790ab0ed4c2bccbd"
+    ],
+    "newsIds": [
+      "draft-e842d55574396768"
+    ]
+  },
+  "natural-mountain-monkeys": {
+    "productIds": [
+      "product-nmm-meister-sheet",
+      "product-draft-5483faf99fd4800a",
+      "product-draft-10dff4ee131333d5"
+    ],
+    "newsIds": []
+  },
+  "bycruise": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "sanzo-komuten": {
+    "productIds": [],
+    "newsIds": [
+      "draft-df1843ac990db992",
+      "draft-c70734823ae3bf02"
+    ]
+  },
+  "mmf": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "ballistics": {
+    "productIds": [
+      "product-ballistics-gear-container",
+      "product-ballistics-lantern-box-ii"
+    ],
+    "newsIds": [
+      "draft-530703147bea8bf7"
+    ]
+  },
+  "38explore": {
+    "productIds": [
+      "product-38explore-38kt-miyabi"
+    ],
+    "newsIds": [
+      "38explore-shipping-2026",
+      "draft-9b61e1073301"
+    ]
+  },
+  "lockfield-equipment": {
+    "productIds": [
+      "product-lockfield-equipment-igt-base-unit"
+    ],
+    "newsIds": []
+  },
+  "devise-works": {
+    "productIds": [
+      "product-devise-works-glowde"
+    ],
+    "newsIds": []
+  },
+  "wantkey-camp": {
+    "productIds": [
+      "product-wantkey-camp-wantkey-mini"
+    ],
+    "newsIds": []
+  },
+  "what-we-want": {
+    "productIds": [
+      "product-what-we-want-www-extensiontablemini"
+    ],
+    "newsIds": []
+  },
+  "solol": {
+    "productIds": [
+      "product-solol-solol-prism"
+    ],
+    "newsIds": []
+  },
+  "bonbonero": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "sanzoku-mountain": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "half-track-products": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "shim-craft": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "boab-leather-works": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "tattam": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "dapper-punch": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "ancam": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "pinoworks": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "leiri-hygge": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "old-sea": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "nuts-outdoor": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "802-products": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "geek-field": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "pastime-factory": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "inout": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "soulabo": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "colonista": {
+    "productIds": [
+      "product-colonista-conpe10-white"
+    ],
+    "newsIds": []
+  },
+  "nodel-design": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "asomatous": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "tarptotarp": {
+    "productIds": [
+      "product-tarptotarp-tarp-pole"
+    ],
+    "newsIds": []
+  },
+  "dekitech": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "tent-o-ten": {
+    "productIds": [
+      "item-ktm-camp-tent-o-ten-9dcda450",
+      "item-ktm-tent-o-ten-f9fa05fd"
+    ],
+    "newsIds": []
+  },
+  "jincup-akihirowoodworks": {
+    "productIds": [
+      "product-draft-66d90e199eef5920",
+      "product-draft-f5e1abb97d789e29"
+    ],
+    "newsIds": []
+  },
+  "natal-design": {
+    "productIds": [
+      "product-natal-design-day-dripper-34-nd-swallow-ver-black"
+    ],
+    "newsIds": []
+  },
+  "yoka": {
+    "productIds": [
+      "product-yoka-cooking-fire-pit",
+      "product-yoka-yoka-camping-knife"
+    ],
+    "newsIds": [
+      "draft-eca1664392d177fc"
+    ]
+  },
+  "tripath-products": {
+    "productIds": [
+      "product-tripath-products-guru-guru-fire-xs",
+      "product-tripath-maru-uchiwa"
+    ],
+    "newsIds": [
+      "draft-8a34c4ab71f25a30",
+      "tripath-3-new-products-2026"
+    ]
+  },
+  "hills-field": {
+    "productIds": [],
+    "newsIds": []
+  },
+  "zane-arts": {
+    "productIds": [
+      "product-zane-zeku-ru",
+      "product-zane-zeku-ru-inner-tent",
+      "product-zane-yoma"
+    ],
+    "newsIds": [
+      "zane-showcase-2026-kobe",
+      "zane-showcase-2026-tokyo",
+      "zane-showcase-2026-aichi",
+      "zane-square-bottle-750",
+      "zane-basa-bag-l",
+      "zane-titanium-stacking-tumbler",
+      "zane-zeku-ru",
+      "zane-zeku-ru-inner-tent",
+      "draft-995c3420a3789a9a"
+    ]
+  },
+  "tokyo-crafts": {
+    "productIds": [
+      "product-tokyo-crafts-kuberu",
+      "product-tokyo-crafts-diafort-tc",
+      "product-tokyo-crafts-pint-glass"
+    ],
+    "newsIds": [
+      "tokyo-crafts-days-2026-autumn"
+    ]
+  },
+  "grip-swany": {
+    "productIds": [],
+    "newsIds": [
+      "draft-ec352896a0fa1a4a",
+      "draft-f1f165b14e87ae8e",
+      "draft-8b8aac71d574b0b1"
+    ]
+  }
+}
